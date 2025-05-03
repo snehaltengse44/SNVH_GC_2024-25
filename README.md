@@ -1,5 +1,4 @@
 # SNVH_GC_2024-25
-Project Overview
 This project analyzes ElectroMart's past marketing expenses and sales data to optimize the marketing budget allocation for the upcoming year. The primary goal is to maximize revenue while minimizing inefficient spending using data-driven insights.
 Business Context
 ElectroMart, an Ontario-based e-commerce firm specializing in electronics, has spent heavily on marketing but has not achieved the expected revenue impact. The company now aims to reallocate its budget optimally across various marketing channels for better return on investment (ROI).
